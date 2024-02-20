@@ -1,6 +1,6 @@
-# Background Counter (2/40)
+# Counter (2/40)
 
-Welcome to the Counter project! This project is part of the JavaScript projects series from [freeCodeCamp](https://www.freecodecamp.org/news/javascript-projects-for-beginners/). It's a simple web application that allows you to change the background color by clicking a button.
+Welcome to the Counter project! This project is part of the JavaScript projects series from [freeCodeCamp]([https://www.freecodecamp.org/](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)). It's a simple web application that allows you to count and keep track of numbers.
 
 ## Table of Contents
 
@@ -12,12 +12,12 @@ Welcome to the Counter project! This project is part of the JavaScript projects 
 
 ## Demo
 
-You can view a live demo of the Background Color Flipper project [here](https://rebrodie.github.io/Color-Flipper/).
+You can view a live demo of the Counter Website project [here](#).
 
 ## Features
 
-- Click the "Change" button to flip the background color.
-- Randomly generates a new background color on each click.
+- Increase or decrease the count with the click of a button.
+- Reset the count to zero.
 - Simple and intuitive user interface.
 
 ## Usage
@@ -25,13 +25,14 @@ You can view a live demo of the Background Color Flipper project [here](https://
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/background-color-flipper.git
+   git clone https://github.com/your-username/counter-website.git
+
 2. Navigate to the project directory:
 
    ```bash
    cd background-color-flipper
 3. Open index.html in your web browser.
-4. Click the "Change" button to see the background color change.
+4. Click the buttons to increase, descrease or reset the count.
 
 
 # Screenshots
