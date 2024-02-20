@@ -12,7 +12,7 @@ Welcome to the Counter project! This project is part of the JavaScript projects 
 
 ## Demo
 
-You can view a live demo of the Counter Website project [here](#).
+You can view a live demo of the Counter Website project [here](https://rebrodie.github.io/Counter/).
 
 ## Features
 
